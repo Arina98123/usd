@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         BGaming Currency Patch (FUN → RUB)
+// @name         BGaming Currency Patch (USD → RUB)
 // @namespace    http://tampermonkey.net/
 // @version      1.2
-// @description  Replaces FUN currency with USD in stake.games init responses only
+// @description  Replaces USD currency with RUB in stake.games init responses only
 // @match        https: /stake.games*
 // @grant        none
 // @run-at       document-start
