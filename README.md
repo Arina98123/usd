@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         BGaming Currency Patch (FUN → USD)
+// @name         BGaming Currency Patch (FUN → RUB)
 // @namespace    http://tampermonkey.net/
 // @version      1.2
-// @description  Replaces FUN currency with USD in BGaming Aviamasters init responses only
-// @match        https://demo.bgaming-network.com/games/Aviamasters/*
+// @description  Replaces FUN currency with USD in stake.games init responses only
+// @match        https: /stake.games*
 // @grant        none
 // @run-at       document-start
 // @noframes
